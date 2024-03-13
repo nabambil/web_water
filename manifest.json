@@ -1,6 +1,6 @@
 {
-    "name": "watering_monitoring_flutter",
-    "short_name": "watering_monitoring_flutter",
+    "name": "water_web",
+    "short_name": "water_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
